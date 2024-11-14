@@ -1,0 +1,5 @@
+Typescript, Python, Rust
+React, Express, PostgreSQL
+
+
+documentacion nextjs - frontend
